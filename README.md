@@ -4,7 +4,7 @@ Yearly expected encounter timeseries model
 
 Step 1: install Netlogo 
 
-Step 2: download the files from github
+Step 2: download the files from github and make sure that the .logo file and the eheliyagoda file are saved at the same location
 
 Step 3: Choose a climatic scenarion by picking a weather option 
 
